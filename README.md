@@ -27,25 +27,25 @@ A simple command-line tool to determine the probabilities of getting a specific 
 
 - View Results:
   - Hand probabilities will be displayed, with hand names in color:
-      High Card: Red
+      - High Card: Red
       
-      Pair: Lighter Red
+      - Pair: Lighter Red
       
-      Two Pair: Orange
+      - Two Pair: Orange
       
-      Three of a Kind: Lighter Orange
+      - Three of a Kind: Lighter Orange
       
-      Straight: Yellow
+      - Straight: Yellow
       
-      Flush: Green
+      - Flush: Green
       
-      Full House: Dark Blue
+      - Full House: Dark Blue
       
-      Four of a Kind: Blue
+      - Four of a Kind: Blue
       
-      Straight Flush: Purple
+      - Straight Flush: Purple
       
-      Royal Flush: Light Purple
+      - Royal Flush: Light Purple
 
 - Exit: Type DONE when you're finished.
 
